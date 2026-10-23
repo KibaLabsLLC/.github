@@ -1,6 +1,8 @@
 # ✦ KIBA LABS
 
-<img width="2172" height="724" alt="Kiba Labs banner" src="https://github.com/user-attachments/assets/0dfcfaf9-1fbc-4fd4-88d2-addd1bb46507" />
+<p align="center">
+<img width="600" alt="Kiba Labs banner" src="https://github.com/KibaLabsLLC/KibaOS/blob/5dae868ed1caac1629ebd14959d92f3b0216e5e6/GH_MEDIA/F37FC284-F214-4989-B85C-1256AE8F9BD8.png?raw=true" />
+</p>
 
 > **BUILDING WHAT COMES NEXT.**
 
@@ -10,7 +12,7 @@ Founded and led by **CEO & Founder [Remi Mixo](https://github.com/remimixo)**, K
 
 We believe technology should be more than functional.
 
-It should be **bold. Open. Human.**
+It should be **bold. Open. Fluffy.**
 
 And sometimes, a little weird. :3
 
@@ -35,7 +37,7 @@ We're asking:
 Kiba Labs is home to a growing ecosystem of experimental and production technologies.
 
 **KibaOS**
-*A Linux-based operating system built around simplicity, performance, and control.*
+*An NT-based operating system built around simplicity, performance, and control.*
 
 **Kiba Labs Hardware**
 *Experimental computing hardware and platform development.*
