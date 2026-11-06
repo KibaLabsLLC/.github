@@ -35,7 +35,7 @@ We're asking:
 Kiba Labs is home to a growing ecosystem of experimental and production technologies.
 
 **KibaOS**
-*An NT-based operating system built around simplicity, performance, and control.*
+*An Arch-based operating system built around simplicity, performance, and control.*
 
 **Kiba Labs Hardware**
 *Experimental computing hardware and platform development.*
